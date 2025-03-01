@@ -1,7 +1,8 @@
 # Simple ToDo app
  A simple Windows forms based todo app with save/load capabilities.  
 
-![ImageOfApp](https://github.com/user-attachments/assets/4184df9c-eda5-4a3e-a68c-48d2b23da417)
+
+![ImageOfTdoApp](https://github.com/user-attachments/assets/2f5daf04-77dd-49fc-a72c-c5c392f37138)
 
 
 
