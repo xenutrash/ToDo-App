@@ -110,7 +110,7 @@
             MarkAsCompletedButton.Location = new Point(1060, 725);
             MarkAsCompletedButton.Name = "MarkAsCompletedButton";
             MarkAsCompletedButton.Size = new Size(144, 24);
-            MarkAsCompletedButton.TabIndex = 5;
+            MarkAsCompletedButton.TabIndex = 6;
             MarkAsCompletedButton.Text = "Mark as completed";
             MarkAsCompletedButton.UseVisualStyleBackColor = true;
             MarkAsCompletedButton.Click += MarkedAsCompletedButton_Click;
@@ -162,7 +162,7 @@
             RemoveItemButton.Location = new Point(908, 725);
             RemoveItemButton.Name = "RemoveItemButton";
             RemoveItemButton.Size = new Size(144, 24);
-            RemoveItemButton.TabIndex = 1008;
+            RemoveItemButton.TabIndex = 5;
             RemoveItemButton.Text = "Delete Task";
             RemoveItemButton.UseVisualStyleBackColor = true;
             RemoveItemButton.Click += RemoveItemButton_Click;
@@ -185,7 +185,7 @@
             Controls.Add(textBox2);
             Controls.Add(textBox1);
             Name = "MainWindow";
-            Text = "Form1";
+            Text = "Tasks";
             ResumeLayout(false);
             PerformLayout();
         }

@@ -94,7 +94,7 @@
             Controls.Add(nameOfTaskInputBox);
             Controls.Add(AddTaskButton);
             Name = "AddNewItem";
-            Text = "Form2";
+            Text = "Add task";
             ResumeLayout(false);
             PerformLayout();
         }
